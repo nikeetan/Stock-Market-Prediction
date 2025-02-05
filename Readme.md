@@ -59,7 +59,7 @@ We experimented with multiple models before selecting the best-performing one:
 
 ### **2. Accuracy Computation**  
 
-\[ Accuracy = \frac{TP + TN}{TP + TN + FP + FN} \]
+ Accuracy = (TP + TN)/ (TP + TN + FP + FN)
 
 For each model:  
 
